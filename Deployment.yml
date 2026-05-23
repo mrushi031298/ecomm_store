@@ -16,7 +16,7 @@ spec:
   spec:
     containers:
     - name: ecommstorecontainer
-      image: vishwajeet/ecomm_store
+      image: 907260787494.dkr.ecr.us-east-1.amazonaws.com/ecomm_store:latest
       ports:
       - containerPort: 80
 ---
