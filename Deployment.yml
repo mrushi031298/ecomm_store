@@ -16,7 +16,7 @@ spec:
   spec:
     containers:
     - name: ecommstorecontainer
-       image: 475590310996.dkr.ecr.us-east-1.amazonaws.com/fronted_repo:lasted
+       image: 475590310996.dkr.ecr.us-east-1.amazonaws.com/frontedapp_repo:latest
       ports:
       - containerPort: 80
 ---
